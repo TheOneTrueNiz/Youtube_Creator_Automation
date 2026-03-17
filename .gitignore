@@ -38,7 +38,5 @@ output/
 
 # Other
 resume_G.txt
-retry_assemble*.py
-test_*.py
 ambient_bed.wav
 ReadMe.jpeg
