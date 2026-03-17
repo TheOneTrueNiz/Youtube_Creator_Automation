@@ -1,3 +1,6 @@
+![Youtube_Creator_Automation](https://github.com/user-attachments/assets/708d5357-47ed-43f1-8168-cdd11cbca7fb)
+
+
 # YouTube Creator Automation Pipeline
 
 An automated Python pipeline designed to generate engaging, high-fidelity short-form videos for YouTube Shorts and Facebook Reels.
