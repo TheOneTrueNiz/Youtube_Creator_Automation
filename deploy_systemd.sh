@@ -22,6 +22,7 @@ source "$VENV_DIR/bin/activate"
 echo "Installing dependencies..."
 pip install --upgrade pip
 pip install .
+playwright install chromium
 
 echo "Starting manual OAuth initialization..."
 python3 youtube_uploader.py
